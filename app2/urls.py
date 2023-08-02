@@ -4,5 +4,5 @@ from app2.views import *
 app_name='anything' 
 
 urlpatterns=[
-    path('zain/',zain,name='zain'),
+    path('app2/',app2,name='app2')
  ]
